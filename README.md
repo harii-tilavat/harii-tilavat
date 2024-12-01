@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **harittilavat10@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/16sRYTLjR8eYAfeTuKC4qg53jStcEgt58/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/131jPLvNQId8FCoAdSD6AGiJUXopI07l1/view)
 
 - ⚡ Fun fact **I enjoy debugging so much that I sometimes dream in code!**
 
